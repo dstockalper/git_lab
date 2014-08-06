@@ -13,3 +13,5 @@ git help  :  shows a list of git commands.
 git remote add origin http://github.com...  :  git remote sends a local project to the remote folder on github.
 git push -u origin master  :  -u indicates to git to pay special attention to the branch, and anyone adding to the branch will be notified.
 git clone https://  :  clones someone else's project from Github on to your own local.
+
+Check out this linen i'm adding through github
